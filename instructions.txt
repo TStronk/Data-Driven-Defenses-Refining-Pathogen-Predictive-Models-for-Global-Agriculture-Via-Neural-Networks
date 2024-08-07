@@ -1,0 +1,12 @@
+# Instructions for Running Jupyter Notebook
+
+1. Open up the `Final prokect IML Finalized version.ipynb` file in Jupyter Notebooks.
+2. Ensure that you have downloaded the datasets provided.
+3. Before running the notebook, make sure that the datasets are either:
+   - Located in the same directory as your Jupyter Notebook file (working directory).
+   - Accessible via the correct file paths specified within the notebook.
+
+If you have any question please feel free to reach out my email is Tstronkowsky@ufl.edu. 
+I would be more than happy to walk you through the code if you have any issues.
+
+-Theodore John Stronkowsky IV

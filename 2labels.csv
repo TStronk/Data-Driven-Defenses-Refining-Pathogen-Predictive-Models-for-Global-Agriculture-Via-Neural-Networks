@@ -1,0 +1,798 @@
+"Country","Region","Presence","Year First Detected","Pest Extent"
+"Bulgaria",NA,"Present: no details",1929,3
+"Croatia",NA,"Present: no details",1950,3
+"France",NA,"Present: no details",1972,3
+"Greece",NA,"Present: no details",2000,3
+"Hungary",NA,"Present: no details",2007,3
+"Italy",NA,"Present: no details",2010,3
+"Portugal",NA,"Present: no details",1952,3
+"Romania",NA,"Present: no details",1987,3
+"Russia","Southern Russia","Present: no details",2001,3
+"Spain","Andalucia","Present: no details",2013,3
+"Ukraine",NA,"Present: no details",1992,3
+"Afghanistan",NA,"Present: no details",1962,3
+"Bangladesh",NA,"Present: no details",2016,3
+"Bhutan",NA,"Present: no details",2011,3
+"Brunei Darussalam",NA,"Present: no details",1963,3
+"Cambodia",NA,"Present: no details",2014,3
+"China","Anhui","Present: no details",2014,3
+"China","Fujian","Present: no details",1999,3
+"China","Gansu","Present: no details",1986,3
+"China","Guangdong","Present: no details",2008,3
+"China","Guangxi","Present: no details",2017,3
+"China","Guizhou","Present: no details",2014,3
+"China","Hainan","Present: no details",1990,3
+"China","Hebei","Present: no details",2015,3
+"China","Heilongjiang","Present: no details",1992,3
+"China","Henan","Present: no details",2015,3
+"China","Hong Kong","Present: no details",2000,3
+"China","Hubei","Present: no details",2016,3
+"China","Hunan","Present: no details",2014,3
+"China","Jiangsu","Present: no details",2015,3
+"China","Jiangxi","Present: no details",2014,3
+"China","Jilin","Present: no details",1987,3
+"China","Liaoning","Present: no details",2013,3
+"China","Nei Menggu","Present: no details",1983,3
+"China","Ningxia","Present: no details",1998,3
+"China","Qinghai","Present: no details",1990,3
+"China","Shaanxi","Present: no details",1990,3
+"China","Shandong","Present: no details",1990,3
+"China","Shanxi","Present: no details",1987,3
+"China","Sichuan","Present: no details",2013,3
+"China","Xinjiang","Present: no details",1990,3
+"China","Yunnan","Present: no details",2012,3
+"China","Zhejiang","Present: no details",2015,3
+"Georgia",NA,"Present: no details",1983,3
+"India",NA,"Present: no details",2015,3
+"India","Andaman and Nicobar Islands","Present: no details",1989,3
+"India","Andhra Pradesh","Present: no details",1990,3
+"India","Arunachal Pradesh","Present: no details",2014,3
+"India","Assam","Present: no details",2015,3
+"India","Bihar","Present: no details",2008,3
+"India","Chhattisgarh","Present: no details",2004,3
+"India","Delhi","Present: no details",2003,3
+"India","Haryana","Present: no details",1996,3
+"India","Himachal Pradesh","Present: no details",2016,3
+"India","Jammu and Kashmir","Present: no details",1991,3
+"India","Jharkhand","Present: no details",2015,3
+"India","Karnataka","Present: no details",2016,3
+"India","Kerala","Present: no details",2014,3
+"India","Madhya Pradesh","Present: no details",1997,3
+"India","Maharashtra","Present: no details",1984,3
+"India","Manipur","Present: no details",2001,3
+"India","Meghalaya","Present: no details",2015,3
+"India","Nagaland","Present: no details",1992,3
+"India","Orissa","Present: no details",2015,3
+"India","Punjab","Present: no details",2008,3
+"India","Sikkim","Present: no details",1999,3
+"India","Tamil Nadu","Present: no details",2014,3
+"India","Tripura","Present: no details",2015,3
+"India","Uttar Pradesh","Present: no details",2005,3
+"India","Uttarakhand","Present: no details",2002,3
+"India","West Bengal","Present: no details",2014,3
+"Indonesia",NA,"Present: no details",2017,3
+"Iran",NA,"Present: no details",2014,3
+"Iraq",NA,"Present: no details",1952,3
+"Japan",NA,"Present: no details",2014,3
+"Kazakhstan",NA,"Present: no details",1979,3
+"Korea",NA,"Present: no details",1995,3
+"Laos",NA,"Present: no details",2014,3
+"Malaysia",NA,"Present: no details",2016,3
+"Myanmar",NA,"Present: no details",2015,3
+"Nepal",NA,"Present: no details",2014,3
+"Pakistan",NA,"Present: no details",1997,3
+"Philippines",NA,"Present: no details",2014,3
+"Sri Lanka",NA,"Present: no details",1991,3
+"Taiwan",NA,"Present: no details",2013,3
+"Thailand",NA,"Present: no details",2015,3
+"Turkey",NA,"Present: no details",1983,3
+"Uzbekistan",NA,"Present: no details",1976,3
+"Vietnam",NA,"Present: no details",1999,3
+"Vietnam",NA,"Present: no details",2005,3
+"Vietnam",NA,"Present: no details",2006,3
+"Angola",NA,"Present: no details",1963,3
+"Benin",NA,"Present: widespread",2014,6
+"Burkina Faso",NA,"Present: no details",2014,3
+"Burundi",NA,"Present: no details",1992,3
+"Cameroon",NA,"Present: no details",1991,3
+"Chad",NA,"Present: no details",1965,3
+"Congo",NA,"Present: no details",1995,3
+"Cote d'Ivoire",NA,"Present: widespread",2014,6
+"Egypt",NA,"Present: no details",1993,3
+"Ethiopia",NA,"Present: no details",2014,3
+"Gabon",NA,"Present: no details",1984,3
+"Gambia",NA,"Present: no details",2002,3
+"Ghana",NA,"Present: no details",1940,3
+"Guinea",NA,"Present: no details",1984,3
+"Kenya",NA,"Present: no details",2013,3
+"Liberia",NA,"Present: no details",1991,3
+"Madagascar",NA,"Present: no details",1990,3
+"Malawi",NA,"Present: no details",1972,3
+"Mali",NA,"Present: no details",2014,3
+"Mauritius",NA,"Present: no details",1973,3
+"Morocco",NA,"Present: no details",2000,3
+"Mozambique",NA,"Present: no details",1987,3
+"Niger",NA,"Present: no details",1986,3
+"Nigeria",NA,"Present: no details",2013,3
+"Senegal",NA,"Present: no details",1989,3
+"Sierra Leone",NA,"Present: no details",1936,3
+"South Africa",NA,"Present: no details",2000,3
+"Sudan",NA,"Present: no details",1997,3
+"Tanzania",NA,"Present: no details",1985,3
+"Tanzania",NA,"Present: no details",2016,3
+"Tanzania",NA,"Present: no details",2016,3
+"Togo",NA,"Present: no details",2000,3
+"Uganda",NA,"Present: no details",2016,3
+"Zambia",NA,"Present: no details",1995,3
+"Zimbabwe",NA,"Present: no details",1966,3
+"Mexico",NA,"Present: widespread",2001,6
+"United States of America",NA,"Present: Eradicated",2003,1
+"United States of America","Alabama","Present: Intercepted only",2017,2
+"United States of America","Arkansas","Present: no details",2012,3
+"United States of America","California","Present: no details",1997,3
+"United States of America","Florida","Present: no details",1991,3
+"United States of America","Hawaii","Present: Intercepted only",2017,2
+"United States of America","Louisiana","Present: no details",1990,3
+"United States of America","Mississipp","Present: Intercepted only",2017,2
+"United States of America","Missouri","Present: no details",1996,3
+"United States of America","Texas","Present: no details",1977,3
+"Belize",NA,"Present: Intercepted only",2017,2
+"Costa Rica",NA,"Present: no details",1967,3
+"Cuba",NA,"Present: no details",2014,3
+"Dominican Republic",NA,"Present: no details",1961,3
+"El Salvador",NA,"Present: no details",1951,3
+"Guatemala",NA,"Present: no details",1967,3
+"Haiti",NA,"Absent",1972,0
+"Honduras",NA,"Present: no details",1967,3
+"Jamaica",NA,"Absent",2017,0
+"Nicaragua",NA,"Present: no details",2011,3
+"Panama",NA,"Present: no details",1967,3
+"Panama",NA,"Present: no details",2006,3
+"Puerto Rico",NA,"Present: no details",2016,3
+"Trinidad and Tobago",NA,"Present: no details",1951,3
+"Trinidad and Tobago",NA,"Present: no details",2017,3
+"Argentina",NA,"Present: no details",1980,3
+"Argentina",NA,"Present: no details",2008,3
+"Brazil","Amazonas","Present: restricted distribution",1989,5
+"Brazil","Espirito Santo","Present: restricted distribution",1963,5
+"Brazil","Goias","Present: restricted distribution",2012,5
+"Brazil","Maranhao","Present: widespread",1982,6
+"Brazil","Mato Grosso","Present: widespread",1989,6
+"Brazil","Mato Grosso do Sul","Present: restricted distribution",2006,5
+"Brazil","Minas Gerais","Present: restricted distribution",1999,5
+"Brazil","Para","Present: widespread",2016,6
+"Brazil","Parana","Present: widespread",2014,6
+"Brazil","Pernambuco","Present: restricted distribution",1963,5
+"Brazil","Piaui","Present: restricted distribution",1972,5
+"Brazil","Rio Grande do Sul","Present: restricted distribution",2016,5
+"Brazil","Rondonia","Present: restricted distribution",1997,5
+"Brazil","Santa Catarina","Present: restricted distribution",2016,5
+"Brazil","Sao Paulo","Present: restricted distribution",1995,5
+"Brazil","Tocantins","Present: restricted distribution",2011,5
+"Colombia",NA,"Present: restricted distribution",1988,5
+"French Guiana",NA,"Present: restricted distribution",2014,5
+"Guyana",NA,"Present: restricted distribution",1973,5
+"Paraguay",NA,"Present: widespread",1945,6
+"Peru",NA,"Present: widespread",1981,6
+"Suriname",NA,"Present: restricted distribution",1977,5
+"Uruguay",NA,"Absent",2014,0
+"Venezuela",NA,"Present: widespread",2014,6
+"Australia",NA,"Present: restricted distribution",2017,5
+"Australia","Northern Territory","Present: restricted distribution",1964,5
+"Australia","Queensland","Present: restricted distribution",2016,5
+"Australia","Western Australia","Present: restricted distribution",2012,5
+"Fiji",NA,"Present: widespread",1977,6
+"New Caledonia",NA,"Present: widespread",1969,6
+"Papua New Guinea",NA,"Present: widespread",1984,6
+"Angola",NA,"Present: no details",2021,3
+"Chad",NA,"Present: no details",2021,3
+"Congo",NA,"Present: no details",2021,3
+"Cote d'Ivoire",NA,"Present: no details",2021,3
+"Egypt",NA,"Present: no details",2021,3
+"Ethiopia",NA,"Present: no details",2021,3
+"Gambia",NA,"Present: no details",2021,3
+"Ghana",NA,"Present: no details",2021,3
+"Guinea",NA,"Present: no details",2021,3
+"Kenya",NA,"Present: no details",2021,3
+"Madagascar",NA,"Present: no details",2021,3
+"Malawi",NA,"Present: no details",2021,3
+"Mauritius",NA,"Present: no details",2021,3
+"Morocco",NA,"Present: no details",2021,3
+"Niger",NA,"Present: no details",2021,3
+"Nigeria",NA,"Present: no details",2021,3
+"Senegal",NA,"Present: no details",2021,3
+"Sierra Leone",NA,"Present: no details",2021,3
+"South Africa",NA,"Present: no details",2021,3
+"Sudan",NA,"Present: no details",2021,3
+"Tanzania",NA,"Present: no details",2021,3
+"Uganda",NA,"Present: no details",2021,3
+"Zambia",NA,"Present: no details",2021,3
+"Zimbabwe",NA,"Present: no details",2021,3
+"Argentina",NA,"Present: no details",2021,3
+"Belize",NA,"Present: no details",2021,3
+"Bermuda",NA,"Present: no details",2021,3
+"Bolivia",NA,"Present: no details",2021,3
+"Brazil",NA,"Present: widespread",2021,6
+"Brazil","Distrito Federal","Present: no details",2021,3
+"Brazil","Espirito Santo","Present: no details",2021,3
+"Brazil","Goias","Present: no details",2021,3
+"Brazil","Mato Grosso","Present: no details",2021,3
+"Brazil","Mato Grosso do Sul","Present: no details",2021,3
+"Brazil","Minas Gerais","Present: no details",2021,3
+"Brazil","Para","Present: no details",2021,3
+"Brazil","Parana","Present: no details",2021,3
+"Brazil","Pernambuco","Present: no details",2021,3
+"Brazil","Piaui","Present: no details",2021,3
+"Brazil","Rio Grande do Sul","Present: no details",2021,3
+"Brazil","Rondonia","Present: no details",2021,3
+"Brazil","Santa Catarina","Present: no details",2021,3
+"Brazil","Sao Paulo","Present: no details",2021,3
+"Brazil","Tocantins","Present: no details",2021,3
+"Colombia",NA,"Present: no details",2021,3
+"Costa Rica",NA,"Present: no details",2021,3
+"Cuba",NA,"Present: no details",2021,3
+"Dominican Republic",NA,"Present: no details",2021,3
+"El Salvador",NA,"Present: no details",2021,3
+"French Guiana",NA,"Present: no details",2021,3
+"Guadeloupe",NA,"Absent",2021,0
+"Guatemala",NA,"Present: no details",2021,3
+"Guyana",NA,"Present: no details",2021,3
+"Haiti",NA,"Present: no details",2021,3
+"Honduras",NA,"Present: no details",2021,3
+"Jamaica",NA,"Absent",2021,0
+"Martinique",NA,"Present: no details",2021,3
+"Mexico",NA,"Present: no details",2021,3
+"Nicaragua",NA,"Present: no details",2021,3
+"Panama",NA,"Present: no details",2021,3
+"Paraguay",NA,"Present: no details",2021,3
+"Peru",NA,"Present: no details",2021,3
+"Puerto Rico",NA,"Present: no details",2021,3
+"Suriname",NA,"Absent",2021,0
+"Trinidad and Tobago",NA,"Present: no details",2021,3
+"United States of America",NA,"Present: restricted distribution",2021,5
+"United States of America","Alabama","Present: no details",2021,3
+"United States of America","Delaware","Present: no details",2021,3
+"United States of America","Florida","Present: no details",2021,3
+"United States of America","Hawaii","Present: no details",2021,3
+"United States of America","Louisiana","Present: no details",2021,3
+"United States of America","Maryland","Present: no details",2021,3
+"United States of America","Mississippi","Present: no details",2021,3
+"United States of America","Ohio","Present: no details",2021,3
+"United States of America","Texas","Present: no details",2021,3
+"Uruguay",NA,"Present: no details",2021,3
+"Venezuela",NA,"Present: no details",2021,3
+"Afghanistan",NA,"Present: no details",2021,3
+"Bangladesh",NA,"Present: widespread",2021,6
+"Brunei Darussalam",NA,"Present: no details",2021,3
+"Cambodia",NA,"Present: no details",2021,3
+"China",NA,"Present: restricted distribution",2021,5
+"China","Anhui","Present: no details",2021,3
+"China","Fujian","Present: no details",2021,3
+"China","Gansu","Present: no details",2021,3
+"China","Guangdong","Present: no details",2021,3
+"China","Guangxi","Present: no details",2021,3
+"China","Guizhou","Present: no details",2021,3
+"China","Hebei","Present: no details",2021,3
+"China","Heilongjiang","Present: no details",2021,3
+"China","Henan","Present: no details",2021,3
+"China","Hubei","Present: no details",2021,3
+"China","Hunan","Present: no details",2021,3
+"China","Jiangsu","Present: no details",2021,3
+"China","Jiangxi","Present: no details",2021,3
+"China","Jilin","Present: no details",2021,3
+"China","Liaoning","Present: no details",2021,3
+"China","Neimenggu","Present: no details",2021,3
+"China","Ningxia","Present: no details",2021,3
+"China","Qinghai","Present: no details",2021,3
+"China","Shaanxi","Present: no details",2021,3
+"China","Shandong","Present: no details",2021,3
+"China","Shanxi","Present: no details",2021,3
+"China","Sichuan","Present: no details",2021,3
+"China","Xianggang (Hong Kong)","Present: no details",2021,3
+"China","Xinjiang","Present: no details",2021,3
+"China","Yunnan","Present: no details",2021,3
+"China","Zhejiang","Present: no details",2021,3
+"India",NA,"Present: widespread",2021,6
+"India","Jammu & Kashmir","Present: no details",2021,3
+"India","Tamil Nadu","Present: no details",2021,3
+"Indonesia",NA,"Present: no details",2021,3
+"Indonesia","Java","Present: no details",2021,3
+"Indonesia","Nusa Tenggara","Present: no details",2021,3
+"Iran",NA,"Present: no details",2021,3
+"Iraq",NA,"Present: no details",2021,3
+"Japan",NA,"Present: widespread",2021,6
+"North Korea",NA,"Present: no details",2021,3
+"Korea",NA,"Present: no details",2021,3
+"Laos",NA,"Present: widespread",2021,6
+"Malaysia",NA,"Present: widespread",2021,6
+"Malaysia","Sabah","Present: no details",2021,3
+"Malaysia","Sarawak","Present: no details",2021,3
+"Malaysia","West","Present: no details",2021,3
+"Myanmar",NA,"Present: no details",2021,3
+"Nepal",NA,"Present: no details",2021,3
+"Pakistan",NA,"Present: no details",2021,3
+"Philippines",NA,"Present: no details",2021,3
+"Sri Lanka",NA,"Present: no details",2021,3
+"Taiwan",NA,"Present: no details",2021,3
+"Thailand",NA,"Present: no details",2021,3
+"Vietnam",NA,"Present: no details",2021,3
+"Bulgaria",NA,"Present: widespread",2021,6
+"France",NA,"Present: no details",2021,3
+"Greece",NA,"Present: no details",2021,3
+"Hungary",NA,"Present: widespread",2021,6
+"Italy",NA,"Present: no details",2021,3
+"Portugal",NA,"Present: widespread",2021,6
+"Romania",NA,"Present: no details",2021,3
+"Russia",NA,"Present: restricted distribution",2021,5
+"Russia",NA,"Present: no details",2021,3
+"Russia",NA,"Present: no details",2021,3
+"Serbia",NA,"Present: no details",2021,3
+"Spain",NA,"Present: no details",2021,3
+"Turkey",NA,"Present: no details",2021,3
+"Ukraine",NA,"Present: no details",2021,3
+"Australia",NA,"Present: restricted distribution",2021,5
+"Australia","Northern Territory","Present: no details",2021,3
+"Australia","Queensland","Present: no details",2021,3
+"Australia","Western Australia","Present: no details",2021,3
+"Fiji",NA,"Present: no details",2021,3
+"Micronesia",NA,"Present: no details",2021,3
+"New Caledonia",NA,"Present: no details",2021,3
+"Angola",NA,"Present: no details",2022,3
+"Chad",NA,"Present: no details",2022,3
+"Congo",NA,"Present: no details",2022,3
+"Cote d'Ivoire",NA,"Present: no details",2022,3
+"Egypt",NA,"Present: no details",2022,3
+"Ethiopia",NA,"Present: no details",2022,3
+"Gambia",NA,"Present: no details",2022,3
+"Ghana",NA,"Present: no details",2022,3
+"Guinea",NA,"Present: no details",2022,3
+"Kenya",NA,"Present: no details",2022,3
+"Madagascar",NA,"Present: no details",2022,3
+"Malawi",NA,"Present: no details",2022,3
+"Mauritius",NA,"Present: no details",2022,3
+"Morocco",NA,"Present: no details",2022,3
+"Niger",NA,"Present: no details",2022,3
+"Nigeria",NA,"Present: no details",2022,3
+"Senegal",NA,"Present: no details",2022,3
+"Sierra Leone",NA,"Present: no details",2022,3
+"South Africa",NA,"Present: no details",2022,3
+"Sudan",NA,"Present: no details",2022,3
+"Tanzania",NA,"Present: no details",2022,3
+"Uganda",NA,"Present: no details",2022,3
+"Zambia",NA,"Present: no details",2022,3
+"Zimbabwe",NA,"Present: no details",2022,3
+"Argentina",NA,"Present: no details",2022,3
+"Belize",NA,"Present: no details",2022,3
+"Bermuda",NA,"Present: no details",2022,3
+"Bolivia",NA,"Present: no details",2022,3
+"Brazil",NA,"Present: widespread",2022,6
+"Brazil","Distrito Federal","Present: no details",2022,3
+"Brazil","Espirito Santo","Present: no details",2022,3
+"Brazil","Goias","Present: no details",2022,3
+"Brazil","Mato Grosso","Present: no details",2022,3
+"Brazil","Mato Grosso do Sul","Present: no details",2022,3
+"Brazil","Minas Gerais","Present: no details",2022,3
+"Brazil","Para","Present: no details",2022,3
+"Brazil","Parana","Present: no details",2022,3
+"Brazil","Pernambuco","Present: no details",2022,3
+"Brazil","Piaui","Present: no details",2022,3
+"Brazil","Rio Grande do Sul","Present: no details",2022,3
+"Brazil","Rondonia","Present: no details",2022,3
+"Brazil","Santa Catarina","Present: no details",2022,3
+"Brazil","Sao Paulo","Present: no details",2022,3
+"Brazil","Tocantins","Present: no details",2022,3
+"Colombia",NA,"Present: no details",2022,3
+"Costa Rica",NA,"Present: no details",2022,3
+"Cuba",NA,"Present: no details",2022,3
+"Dominican Republic",NA,"Present: no details",2022,3
+"El Salvador",NA,"Present: no details",2022,3
+"French Guiana",NA,"Present: no details",2022,3
+"Guadeloupe",NA,"Absent",2022,0
+"Guatemala",NA,"Present: no details",2022,3
+"Guyana",NA,"Present: no details",2022,3
+"Haiti",NA,"Present: no details",2022,3
+"Honduras",NA,"Present: no details",2022,3
+"Jamaica",NA,"Absent",2022,0
+"Martinique",NA,"Present: no details",2022,3
+"Mexico",NA,"Present: no details",2022,3
+"Nicaragua",NA,"Present: no details",2022,3
+"Panama",NA,"Present: no details",2022,3
+"Paraguay",NA,"Present: no details",2022,3
+"Peru",NA,"Present: no details",2022,3
+"Puerto Rico",NA,"Present: no details",2022,3
+"Suriname",NA,"Absent",2022,0
+"Trinidad and Tobago",NA,"Present: no details",2022,3
+"United States of America",NA,"Present: restricted distribution",2022,5
+"United States of America","Alabama","Present: no details",2022,3
+"United States of America","Delaware","Present: no details",2022,3
+"United States of America","Florida","Present: no details",2022,3
+"United States of America","Hawaii","Present: no details",2022,3
+"United States of America","Louisiana","Present: no details",2022,3
+"United States of America","Maryland","Present: no details",2022,3
+"United States of America","Mississippi","Present: no details",2022,3
+"United States of America","Ohio","Present: no details",2022,3
+"United States of America","Texas","Present: no details",2022,3
+"Uruguay",NA,"Present: no details",2022,3
+"Venezuela",NA,"Present: no details",2022,3
+"Afghanistan",NA,"Present: no details",2022,3
+"Bangladesh",NA,"Present: widespread",2022,6
+"Brunei Darussalam",NA,"Present: no details",2022,3
+"Cambodia",NA,"Present: no details",2022,3
+"China",NA,"Present: restricted distribution",2022,5
+"China","Anhui","Present: no details",2022,3
+"China","Fujian","Present: no details",2022,3
+"China","Gansu","Present: no details",2022,3
+"China","Guangdong","Present: no details",2022,3
+"China","Guangxi","Present: no details",2022,3
+"China","Guizhou","Present: no details",2022,3
+"China","Hebei","Present: no details",2022,3
+"China","Heilongjiang","Present: no details",2022,3
+"China","Henan","Present: no details",2022,3
+"China","Hubei","Present: no details",2022,3
+"China","Hunan","Present: no details",2022,3
+"China","Jiangsu","Present: no details",2022,3
+"China","Jiangxi","Present: no details",2022,3
+"China","Jilin","Present: no details",2022,3
+"China","Liaoning","Present: no details",2022,3
+"China","Neimenggu","Present: no details",2022,3
+"China","Ningxia","Present: no details",2022,3
+"China","Qinghai","Present: no details",2022,3
+"China","Shaanxi","Present: no details",2022,3
+"China","Shandong","Present: no details",2022,3
+"China","Shanxi","Present: no details",2022,3
+"China","Sichuan","Present: no details",2022,3
+"China","Xianggang (Hong Kong)","Present: no details",2022,3
+"China","Xinjiang","Present: no details",2022,3
+"China","Yunnan","Present: no details",2022,3
+"China","Zhejiang","Present: no details",2022,3
+"India",NA,"Present: widespread",2022,6
+"India","Jammu & Kashmir","Present: no details",2022,3
+"India","Tamil Nadu","Present: no details",2022,3
+"Indonesia",NA,"Present: no details",2022,3
+"Indonesia","Java","Present: no details",2022,3
+"Indonesia","Nusa Tenggara","Present: no details",2022,3
+"Iran",NA,"Present: no details",2022,3
+"Iraq",NA,"Present: no details",2022,3
+"Japan",NA,"Present: widespread",2022,6
+"North Korea",NA,"Present: no details",2022,3
+"Korea",NA,"Present: no details",2022,3
+"Laos",NA,"Present: widespread",2022,6
+"Malaysia",NA,"Present: widespread",2022,6
+"Malaysia","Sabah","Present: no details",2022,3
+"Malaysia","Sarawak","Present: no details",2022,3
+"Malaysia","West","Present: no details",2022,3
+"Myanmar",NA,"Present: no details",2022,3
+"Nepal",NA,"Present: no details",2022,3
+"Pakistan",NA,"Present: no details",2022,3
+"Philippines",NA,"Present: no details",2022,3
+"Sri Lanka",NA,"Present: no details",2022,3
+"Taiwan",NA,"Present: no details",2022,3
+"Thailand",NA,"Present: no details",2022,3
+"Vietnam",NA,"Present: no details",2022,3
+"Bulgaria",NA,"Present: widespread",2022,6
+"France",NA,"Present: no details",2022,3
+"Greece",NA,"Present: no details",2022,3
+"Hungary",NA,"Present: widespread",2022,6
+"Italy",NA,"Present: no details",2022,3
+"Portugal",NA,"Present: widespread",2022,6
+"Romania",NA,"Present: no details",2022,3
+"Russia",NA,"Present: restricted distribution",2022,5
+"Russia","European Russia","Present: no details",2022,3
+"Russia","Far East","Present: no details",2022,3
+"Serbia",NA,"Present: no details",2022,3
+"Spain",NA,"Present: no details",2022,3
+"Turkey",NA,"Present: no details",2022,3
+"Ukraine",NA,"Present: no details",2022,3
+"Australia",NA,"Present: restricted distribution",2022,5
+"Australia","Northern Territory","Present: no details",2022,3
+"Australia","Queensland","Present: no details",2022,3
+"Australia","Western Australia","Present: no details",2022,3
+"Fiji",NA,"Present: no details",2022,3
+"Micronesia",NA,"Present: no details",2022,3
+"New Caledonia",NA,"Present: no details",2022,3
+"Angola",NA,"Present: no details",2023,3
+"Chad",NA,"Present: no details",2023,3
+"Congo",NA,"Present: no details",2023,3
+"Cote d'Ivoire",NA,"Present: no details",2023,3
+"Egypt",NA,"Present: no details",2023,3
+"Ethiopia",NA,"Present: no details",2023,3
+"Gambia",NA,"Present: no details",2023,3
+"Ghana",NA,"Present: no details",2023,3
+"Guinea",NA,"Present: no details",2023,3
+"Kenya",NA,"Present: no details",2023,3
+"Madagascar",NA,"Present: no details",2023,3
+"Malawi",NA,"Present: no details",2023,3
+"Mauritius",NA,"Present: no details",2023,3
+"Morocco",NA,"Present: no details",2023,3
+"Niger",NA,"Present: no details",2023,3
+"Nigeria",NA,"Present: no details",2023,3
+"Senegal",NA,"Present: no details",2023,3
+"Sierra Leone",NA,"Present: no details",2023,3
+"South Africa",NA,"Present: no details",2023,3
+"Sudan",NA,"Present: no details",2023,3
+"Tanzania",NA,"Present: no details",2023,3
+"Uganda",NA,"Present: no details",2023,3
+"Zambia",NA,"Present: no details",2023,3
+"Zimbabwe",NA,"Present: no details",2023,3
+"Argentina",NA,"Present: no details",2023,3
+"Belize",NA,"Present: no details",2023,3
+"Bermuda",NA,"Present: no details",2023,3
+"Bolivia",NA,"Present: no details",2023,3
+"Brazil",NA,"Present: widespread",2023,6
+"Brazil","Distrito Federal","Present: no details",2023,3
+"Brazil","Espirito Santo","Present: no details",2023,3
+"Brazil","Goias","Present: no details",2023,3
+"Brazil","Mato Grosso","Present: no details",2023,3
+"Brazil","Mato Grosso do Sul","Present: no details",2023,3
+"Brazil","Minas Gerais","Present: no details",2023,3
+"Brazil","Para","Present: no details",2023,3
+"Brazil","Parana","Present: no details",2023,3
+"Brazil","Pernambuco","Present: no details",2023,3
+"Brazil","Piaui","Present: no details",2023,3
+"Brazil","Rio Grande do Sul","Present: no details",2023,3
+"Brazil","Rondonia","Present: no details",2023,3
+"Brazil","Santa Catarina","Present: no details",2023,3
+"Brazil","Sao Paulo","Present: no details",2023,3
+"Brazil","Tocantins","Present: no details",2023,3
+"Colombia",NA,"Present: no details",2023,3
+"Costa Rica",NA,"Present: no details",2023,3
+"Cuba",NA,"Present: no details",2023,3
+"Dominican Republic",NA,"Present: no details",2023,3
+"El Salvador",NA,"Present: no details",2023,3
+"French Guiana",NA,"Present: no details",2023,3
+"Guadeloupe",NA,"Absent",2023,0
+"Guatemala",NA,"Present: no details",2023,3
+"Guyana",NA,"Present: no details",2023,3
+"Haiti",NA,"Present: no details",2023,3
+"Honduras",NA,"Present: no details",2023,3
+"Jamaica",NA,"Absent",2023,0
+"Martinique",NA,"Present: no details",2023,3
+"Mexico",NA,"Present: no details",2023,3
+"Nicaragua",NA,"Present: no details",2023,3
+"Panama",NA,"Present: no details",2023,3
+"Paraguay",NA,"Present: no details",2023,3
+"Peru",NA,"Present: no details",2023,3
+"Puerto Rico",NA,"Present: no details",2023,3
+"Suriname",NA,"Absent",2023,0
+"Trinidad and Tobago",NA,"Present: no details",2023,3
+"United States of America",NA,"Present: restricted distribution",2023,5
+"United States of America","Alabama","Present: no details",2023,3
+"United States of America","Delaware","Present: no details",2023,3
+"United States of America","Florida","Present: no details",2023,3
+"United States of America","Hawaii","Present: no details",2023,3
+"United States of America","Louisiana","Present: no details",2023,3
+"United States of America","Maryland","Present: no details",2023,3
+"United States of America","Mississippi","Present: no details",2023,3
+"United States of America","Ohio","Present: no details",2023,3
+"United States of America","Texas","Present: no details",2023,3
+"Uruguay",NA,"Present: no details",2023,3
+"Venezuela",NA,"Present: no details",2023,3
+"Afghanistan",NA,"Present: no details",2023,3
+"Bangladesh",NA,"Present: widespread",2023,6
+"Brunei Darussalam",NA,"Present: no details",2023,3
+"Cambodia",NA,"Present: no details",2023,3
+"China",NA,"Present: restricted distribution",2023,5
+"China","Anhui","Present: no details",2023,3
+"China","Fujian","Present: no details",2023,3
+"China","Gansu","Present: no details",2023,3
+"China","Guangdong","Present: no details",2023,3
+"China","Guangxi","Present: no details",2023,3
+"China","Guizhou","Present: no details",2023,3
+"China","Hebei","Present: no details",2023,3
+"China","Heilongjiang","Present: no details",2023,3
+"China","Henan","Present: no details",2023,3
+"China","Hubei","Present: no details",2023,3
+"China","Hunan","Present: no details",2023,3
+"China","Jiangsu","Present: no details",2023,3
+"China","Jiangxi","Present: no details",2023,3
+"China","Jilin","Present: no details",2023,3
+"China","Liaoning","Present: no details",2023,3
+"China","Neimenggu","Present: no details",2023,3
+"China","Ningxia","Present: no details",2023,3
+"China","Qinghai","Present: no details",2023,3
+"China","Shaanxi","Present: no details",2023,3
+"China","Shandong","Present: no details",2023,3
+"China","Shanxi","Present: no details",2023,3
+"China","Sichuan","Present: no details",2023,3
+"China","Xianggang (Hong Kong)","Present: no details",2023,3
+"China","Xinjiang","Present: no details",2023,3
+"China","Yunnan","Present: no details",2023,3
+"China","Zhejiang","Present: no details",2023,3
+"India",NA,"Present: widespread",2023,6
+"India","Jammu & Kashmir","Present: no details",2023,3
+"India","Tamil Nadu","Present: no details",2023,3
+"Indonesia",NA,"Present: no details",2023,3
+"Indonesia","Java","Present: no details",2023,3
+"Indonesia","Nusa Tenggara","Present: no details",2023,3
+"Iran",NA,"Present: no details",2023,3
+"Iraq",NA,"Present: no details",2023,3
+"Japan",NA,"Present: widespread",2023,6
+"North Korea",NA,"Present: no details",2023,3
+"Korea",NA,"Present: no details",2023,3
+"Laos",NA,"Present: widespread",2023,6
+"Malaysia",NA,"Present: widespread",2023,6
+"Malaysia","Sabah","Present: no details",2023,3
+"Malaysia","Sarawak","Present: no details",2023,3
+"Malaysia","West","Present: no details",2023,3
+"Myanmar",NA,"Present: no details",2023,3
+"Nepal",NA,"Present: no details",2023,3
+"Pakistan",NA,"Present: no details",2023,3
+"Philippines",NA,"Present: no details",2023,3
+"Sri Lanka",NA,"Present: no details",2023,3
+"Taiwan",NA,"Present: no details",2023,3
+"Thailand",NA,"Present: no details",2023,3
+"Vietnam",NA,"Present: no details",2023,3
+"Bulgaria",NA,"Present: widespread",2023,6
+"France",NA,"Present: no details",2023,3
+"Greece",NA,"Present: no details",2023,3
+"Hungary",NA,"Present: widespread",2023,6
+"Italy",NA,"Present: no details",2023,3
+"Portugal",NA,"Present: widespread",2023,6
+"Romania",NA,"Present: no details",2023,3
+"Russia",NA,"Present: restricted distribution",2023,5
+"Russia","European Russia","Present: no details",2023,3
+"Russia","Far East","Present: no details",2023,3
+"Serbia",NA,"Present: no details",2023,3
+"Spain",NA,"Present: no details",2023,3
+"Turkey",NA,"Present: no details",2023,3
+"Ukraine",NA,"Present: no details",2023,3
+"Australia",NA,"Present: restricted distribution",2023,5
+"Australia","Northern Territory","Present: no details",2023,3
+"Australia","Queensland","Present: no details",2023,3
+"Australia","Western Australia","Present: no details",2023,3
+"Fiji",NA,"Present: no details",2023,3
+"Micronesia",NA,"Present: no details",2023,3
+"New Caledonia",NA,"Present: no details",2023,3
+"Angola",NA,"Present: no details",2024,3
+"Chad",NA,"Present: no details",2024,3
+"Congo",NA,"Present: no details",2024,3
+"Cote d'Ivoire",NA,"Present: no details",2024,3
+"Egypt",NA,"Present: no details",2024,3
+"Ethiopia",NA,"Present: no details",2024,3
+"Gambia",NA,"Present: no details",2024,3
+"Ghana",NA,"Present: no details",2024,3
+"Guinea",NA,"Present: no details",2024,3
+"Kenya",NA,"Present: no details",2024,3
+"Madagascar",NA,"Present: no details",2024,3
+"Malawi",NA,"Present: no details",2024,3
+"Mauritius",NA,"Present: no details",2024,3
+"Morocco",NA,"Present: no details",2024,3
+"Niger",NA,"Present: no details",2024,3
+"Nigeria",NA,"Present: no details",2024,3
+"Senegal",NA,"Present: no details",2024,3
+"Sierra Leone",NA,"Present: no details",2024,3
+"South Africa",NA,"Present: no details",2024,3
+"Sudan",NA,"Present: no details",2024,3
+"Tanzania",NA,"Present: no details",2024,3
+"Uganda",NA,"Present: no details",2024,3
+"Zambia",NA,"Present: no details",2024,3
+"Zimbabwe",NA,"Present: no details",2024,3
+"Argentina",NA,"Present: no details",2024,3
+"Belize",NA,"Present: no details",2024,3
+"Bermuda",NA,"Present: no details",2024,3
+"Bolivia",NA,"Present: no details",2024,3
+"Brazil",NA,"Present: widespread",2024,6
+"Brazil","Distrito Federal","Present: no details",2024,3
+"Brazil","Espirito Santo","Present: no details",2024,3
+"Brazil","Goias","Present: no details",2024,3
+"Brazil","Mato Grosso","Present: no details",2024,3
+"Brazil","Mato Grosso do Sul","Present: no details",2024,3
+"Brazil","Minas Gerais","Present: no details",2024,3
+"Brazil","Para","Present: no details",2024,3
+"Brazil","Parana","Present: no details",2024,3
+"Brazil","Pernambuco","Present: no details",2024,3
+"Brazil","Piaui","Present: no details",2024,3
+"Brazil","Rio Grande do Sul","Present: no details",2024,3
+"Brazil","Rondonia","Present: no details",2024,3
+"Brazil","Santa Catarina","Present: no details",2024,3
+"Brazil","Sao Paulo","Present: no details",2024,3
+"Brazil","Tocantins","Present: no details",2024,3
+"Colombia",NA,"Present: no details",2024,3
+"Costa Rica",NA,"Present: no details",2024,3
+"Cuba",NA,"Present: no details",2024,3
+"Dominican Republic",NA,"Present: no details",2024,3
+"El Salvador",NA,"Present: no details",2024,3
+"French Guiana",NA,"Present: no details",2024,3
+"Guadeloupe",NA,"Absent",2024,0
+"Guatemala",NA,"Present: no details",2024,3
+"Guyana",NA,"Present: no details",2024,3
+"Haiti",NA,"Present: no details",2024,3
+"Honduras",NA,"Present: no details",2024,3
+"Jamaica",NA,"Absent",2024,0
+"Martinique",NA,"Present: no details",2024,3
+"Mexico",NA,"Present: no details",2024,3
+"Nicaragua",NA,"Present: no details",2024,3
+"Panama",NA,"Present: no details",2024,3
+"Paraguay",NA,"Present: no details",2024,3
+"Peru",NA,"Present: no details",2024,3
+"Puerto Rico",NA,"Present: no details",2024,3
+"Suriname",NA,"Absent",2024,0
+"Trinidad and Tobago",NA,"Present: no details",2024,3
+"United States of America",NA,"Present: restricted distribution",2024,5
+"United States of America","Alabama","Present: no details",2024,3
+"United States of America","Delaware","Present: no details",2024,3
+"United States of America","Florida","Present: no details",2024,3
+"United States of America","Hawaii","Present: no details",2024,3
+"United States of America","Louisiana","Present: no details",2024,3
+"United States of America","Maryland","Present: no details",2024,3
+"United States of America","Mississippi","Present: no details",2024,3
+"United States of America","Ohio","Present: no details",2024,3
+"United States of America","Texas","Present: no details",2024,3
+"Uruguay",NA,"Present: no details",2024,3
+"Venezuela",NA,"Present: no details",2024,3
+"Afghanistan",NA,"Present: no details",2024,3
+"Bangladesh",NA,"Present: widespread",2024,6
+"Brunei Darussalam",NA,"Present: no details",2024,3
+"Cambodia",NA,"Present: no details",2024,3
+"China",NA,"Present: restricted distribution",2024,5
+"China","Anhui","Present: no details",2024,3
+"China","Fujian","Present: no details",2024,3
+"China","Gansu","Present: no details",2024,3
+"China","Guangdong","Present: no details",2024,3
+"China","Guangxi","Present: no details",2024,3
+"China","Guizhou","Present: no details",2024,3
+"China","Hebei","Present: no details",2024,3
+"China","Heilongjiang","Present: no details",2024,3
+"China","Henan","Present: no details",2024,3
+"China","Hubei","Present: no details",2024,3
+"China","Hunan","Present: no details",2024,3
+"China","Jiangsu","Present: no details",2024,3
+"China","Jiangxi","Present: no details",2024,3
+"China","Jilin","Present: no details",2024,3
+"China","Liaoning","Present: no details",2024,3
+"China","Neimenggu","Present: no details",2024,3
+"China","Ningxia","Present: no details",2024,3
+"China","Qinghai","Present: no details",2024,3
+"China","Shaanxi","Present: no details",2024,3
+"China","Shandong","Present: no details",2024,3
+"China","Shanxi","Present: no details",2024,3
+"China","Sichuan","Present: no details",2024,3
+"China","Xianggang (Hong Kong)","Present: no details",2024,3
+"China","Xinjiang","Present: no details",2024,3
+"China","Yunnan","Present: no details",2024,3
+"China","Zhejiang","Present: no details",2024,3
+"India",NA,"Present: widespread",2024,6
+"India","Jammu & Kashmir","Present: no details",2024,3
+"India","Tamil Nadu","Present: no details",2024,3
+"Indonesia",NA,"Present: no details",2024,3
+"Indonesia","Java","Present: no details",2024,3
+"Indonesia","Nusa Tenggara","Present: no details",2024,3
+"Iran",NA,"Present: no details",2024,3
+"Iraq",NA,"Present: no details",2024,3
+"Japan",NA,"Present: widespread",2024,6
+"North Korea",NA,"Present: no details",2024,3
+"Korea",NA,"Present: no details",2024,3
+"Laos",NA,"Present: widespread",2024,6
+"Malaysia",NA,"Present: widespread",2024,6
+"Malaysia","Sabah","Present: no details",2024,3
+"Malaysia","Sarawak","Present: no details",2024,3
+"Malaysia","West","Present: no details",2024,3
+"Myanmar",NA,"Present: no details",2024,3
+"Nepal",NA,"Present: no details",2024,3
+"Pakistan",NA,"Present: no details",2024,3
+"Philippines",NA,"Present: no details",2024,3
+"Sri Lanka",NA,"Present: no details",2024,3
+"Taiwan",NA,"Present: no details",2024,3
+"Thailand",NA,"Present: no details",2024,3
+"Vietnam",NA,"Present: no details",2024,3
+"Bulgaria",NA,"Present: widespread",2024,6
+"France",NA,"Present: no details",2024,3
+"Greece",NA,"Present: no details",2024,3
+"Hungary",NA,"Present: widespread",2024,6
+"Italy",NA,"Present: no details",2024,3
+"Portugal",NA,"Present: widespread",2024,6
+"Romania",NA,"Present: no details",2024,3
+"Russia",NA,"Present: restricted distribution",2024,5
+"Russia","European Russia","Present: no details",2024,3
+"Russia","Far East","Present: no details",2024,3
+"Serbia",NA,"Present: no details",2024,3
+"Spain",NA,"Present: no details",2024,3
+"Turkey",NA,"Present: no details",2024,3
+"Ukraine",NA,"Present: no details",2024,3
+"Australia",NA,"Present: restricted distribution",2024,5
+"Australia","Northern Territory","Present: no details",2024,3
+"Australia","Queensland","Present: no details",2024,3
+"Australia","Western Australia","Present: no details",2024,3
+"Fiji",NA,"Present: no details",2024,3
+"Micronesia",NA,"Present: no details",2024,3
+"New Caledonia",NA,"Present: no details",2024,3
